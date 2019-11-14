@@ -25,8 +25,3 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
-[[redirects]]
-  from = "https://confident-newton-4cd1e0.netlify.com/#research"
-  to = "https://www.predictivesciencelab.org/#research"
-  status = 301
-  force = false
