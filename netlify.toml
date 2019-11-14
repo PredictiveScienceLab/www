@@ -29,4 +29,4 @@
   from = "https://confident-newton-4cd1e0.netlify.com/*"
   to = "https://www.predictivesciencelab.org/:splat"
   status = 301
-  force = true
+  force = false
