@@ -3,7 +3,7 @@ title: Using data science to discover materials with extreme properties.
 summary: Discovery of high-temperature, oxidation resistant, complex, concentrated alloys via data science driven multi-resolution experiments and simulations.
 authors: ["sharmila", "ebilionis"]
 tags:
-- DARPA
+- NSF
 - Current
 - Uncertainty quantification
 - Physics-informed machine learning

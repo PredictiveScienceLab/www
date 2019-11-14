@@ -3,7 +3,7 @@ title: Understanding Information Acquisition Decisions in Systems Design through
 summary: Learning to replicate how engineers solve complex problems.
 authors: ["atharva", "ebilionis"]
 tags:
-- DARPA
+- NSF
 - Current
 - Behavioral modeling
 - Sequential design of experiments

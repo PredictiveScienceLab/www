@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Research"
+title = "Teaching"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "teaching"
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,32 +26,20 @@ subtitle = ""
      tag = "*"
 
   [[content.filter_button]]
-        name = "Current"
-        tag = "Current"
+     name = "Current"
+     tag = "Current"
 
   [[content.filter_button]]
-        name = "Past"
-        tag = "Past"
+     name = "Past"
+     tag = "Past"
 
   [[content.filter_button]]
-     name = "NASA"
-     tag = "NASA"
+     name = "Undergraduate"
+     tag = "Undergraduate"
 
   [[content.filter_button]]
-     name = "NSF"
-     tag = "NSF"
-
-  [[content.filter_button]]
-      name = "DARPA"
-      tag = "DARPA"
-
-  [[content.filter_button]]
-      name = "Ford"
-      tag = "Ford"
-
-  [[content.filter_button]]
-      name = "Facebook"
-      tag = "Facebook"
+     name = "Graduate"
+     tag = "Graduate"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -94,3 +82,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+This is a list of the courses [Prof. Bilionis](authors/ebilionis) teaches on a regular basis.
+He has also delivered special short courses on research topics, e.g., uncertainty quantification, Gaussian process regression, global optimization of expensive functions, sequential design of simulations/experiments, which will be added to the site gradually.
