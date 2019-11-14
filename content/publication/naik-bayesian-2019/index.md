@@ -1,0 +1,14 @@
+---
+title: "Bayesian model calibration and optimization of surfactant-polymer flooding"
+date: 2019-10-01
+publishDate: 2019-11-12T12:56:14.874254Z
+authors: ["Pratik Naik", "Piyush Pandita", "Soroush Aramideh", "Ilias Bilionis", "Arezoo M. Ardekani"]
+publication_types: ["2"]
+abstract: "The physical models governing surfactant-polymer (SP) flooding process are subject to parametric uncertainties, accurate quantification of which is crucial for improved decision making. Moreover, history matching of SP flooding is an ill-posed problem, typically characterized by a multimodal posterior distribution of these model parameters. This paper presents a systematic approach for Bayesian history matching and uncertainty quantification in the model calibration stage of SP flooding using coreflood experimental data. The approach is as follows. First, we construct a surrogate of the computationally expensive physics-based model using a polynomial chaos expansion (PCE-proxy). Second, we formulate a Bayesian calibration problem for inferring the model parameters from a single coreflood experiment that measures pressure drop and oilcut profiles. Third, we solve the Bayesian calibration problem by sampling directly from the posterior using Markov chain Monte Carlo (MCMC). We validate the calibrated parameters by successfully predicting the result of two other coreflood experiments. Then, we extend this framework to stochastic multiobjective optimization of injection slug size design under uncertainties in model parameters (captured by the posterior of Bayesian calibration problem) and oil price (modeled as a geometric random walk with constant drift and volatility). To identify the Pareto frontier of the stochastic multiobjective optimization problem, we employ a variant of Bayesian global optimization (BGO), a class of algorithms capable of optimizing black-box, gradient-free, computationally expensive functions. In particular, we use the extended expected improvement over the dominated hypervolume to sequentially select simulations that seek to reveal the Pareto frontier. An addendum of the implemented BGO is that it quantifies the epistemic uncertainty about the Pareto frontier as induced by the limited number of simulations used to construct it."
+featured: false
+publication: "*Computational Geosciences*"
+tags: ["Bayesian global optimization", "Bayesian history matching", "Markov chain Monte Carlo", "Model calibration", "Polynomial chaos expansion", "Surfactant-polymer flooding model", "Uncertainty quantification"]
+url_pdf: "https://doi.org/10.1007/s10596-019-09858-z"
+doi: "10.1007/s10596-019-09858-z"
+---
+

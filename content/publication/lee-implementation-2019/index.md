@@ -1,0 +1,14 @@
+---
+title: "Implementation of a self-tuned HVAC controller to satisfy occupant thermal preferences and optimize energy use"
+date: 2019-07-01
+publishDate: 2019-11-12T12:56:14.850492Z
+authors: ["Seungjae Lee", "Jaewan Joe", "Panagiota Karava", "Ilias Bilionis", "Athanasios Tzempelikos"]
+publication_types: ["2"]
+abstract: "This paper presents the development of a self-tuned HVAC controller that provides customized thermal conditions to satisfy occupant preferences (i.e., online learning) while minimizing energy consumption, and the implementation of this controller in a real occupied office space. The evolution of personalized thermal preference models and the delivery of thermal conditions with model predictive control (MPC) form a closed-loop. To integrate these two parts, we propose a new method that always provides a set of lower and upper indoor temperature bounds. Different from ad hoc rules proposed in previous research, the control bounds are based on a decision-making method that minimizes the expected cost. We implemented the self-tuned controller in an actual open-plan office space conditioned with a radiant floor cooling system with eight independently controlled loops. Localized operative temperature bounds in each radiant floor loop were determined based on occupants’ feedback and personalized thermal preference models, developed using a Bayesian clustering and online classification algorithm. The self-tuned controller can decrease occupant dissatisfaction compared to a baseline MPC controller, tuned based on general comfort bounds. To generalize the findings of this work: (i) we integrated the self-tuned controller with local MPC into a building simulation platform using synthetic occupant profiles, and (ii) demonstrated a method for automatic system adjustment based on comfort-energy trade-off tuning. In this way, decisions resulting in energy waste or occupant dissatisfaction are eliminated, i.e., the energy is deployed where it is actually needed."
+featured: false
+publication: "*Energy and Buildings*"
+tags: ["Building simulation", "Model-predictive control", "Online learning", "Personalized thermal control", "Radiant floor system", "Thermal preferences"]
+url_pdf: "http://www.sciencedirect.com/science/article/pii/S0378778818338696"
+doi: "10.1016/j.enbuild.2019.04.016"
+projects: ["nsf-cybersees"]
+---

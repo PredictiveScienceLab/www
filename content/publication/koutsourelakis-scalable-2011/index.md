@@ -1,0 +1,13 @@
+---
+title: "Scalable Bayesian reduced-order models for simulating high-dimensional multiscale dynamical systems"
+date: 2011-01-01
+publishDate: 2019-11-12T12:56:14.847210Z
+authors: ["P. Koutsourelakis", "E. Bilionis"]
+publication_types: ["2"]
+abstract: "While existing mathematical descriptions can accurately account for phenomena at microscopic scales (e.g., molecular dynamics), these are often high-dimensional, stochastic, and their applicability over macroscopic time scales of physical interest is computationally infeasible or impractical. In complex systems, with limited physical insight on the coherent behavior of their constituents, the only available information is data obtained from simulations of the trajectories of huge numbers of degrees of freedom over microscopic time scales. The analysis of these large amounts of data hinges upon the ability to efficiently extract meaningful latent properties and to discover reduced, predictive descriptions. This paper discusses a Bayesian approach to deriving probabilistic coarse-grained models that simultaneously addresses the problems of identifying appropriate reduced coordinates and the effective dynamics in this lower-dimensional representation. At the core of the models proposed lie simple, low-dimensional dynamical systems which serve as the building blocks of the global model. These approximate the latent generating sources and parametrize the reduced-order dynamics. On their own, each of these simple models would be unable to explain and predict the various complexities encountered in multiscale dynamics of physical interest. Similar to the way one would synthesize opinions from various experts in order to reach a conclusion, we propose probabilistic models that combine the predictions of all these building blocks in order to obtain an integrated model that provides a good global approximation. We discuss parallelizable, online inference and learning algorithms that employ sequential Monte Carlo samplers and scale linearly with the dimensionality of the observed dynamics. We propose a Bayesian adaptive time-integration scheme that utilizes probabilistic predictive estimates and enables rigorous concurrent simulation over macroscopic time scales. The data-driven perspective advocated assimilates computational and experimental data and thus can materialize data-model fusion. It can deal with applications that lack a mathematical description and where only observational data is available. Furthermore, it makes nonintrusive use of existing computational models."
+featured: false
+publication: "*Multiscale Modeling & Simulation*"
+url_pdf: "https://epubs.siam.org/doi/abs/10.1137/100783790"
+doi: "10.1137/100783790"
+---
+
