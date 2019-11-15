@@ -1,6 +1,6 @@
 ---
-title: Physics-Informed LeaRnIng for Multiscale Systems (PILgRIMS)
-summary: Baking known physics into machine learning algorithms.
+title: Human-centered Systems for Cyber-enabled Sustainable Buildings
+summary: Understanding thermal and visual comfort in high-performance buildings.
 authors: ["nawalgao", "ebilionis"]
 tags:
 - Past
