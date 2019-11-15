@@ -64,6 +64,6 @@ email: "ibilion@purdue.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 Ilias received a Diploma in applied mathematics from the National Technical University of Athens, Greece, in 2008, and a Ph.D. in applied mathematics from Cornell University, Ithaca, NY, in 2013. He spent the 2013-2014 year as a postdoc at the Computer Science and Mathematics Division of Argonne National Laboratory, Lemont, IL. In August 2014, he joined the faculty of the School of Mechanical Engineering at Purdue University, West Lafayette, IN, where he founded the Predictive Science Laboratory.
