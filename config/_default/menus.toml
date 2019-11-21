@@ -5,12 +5,17 @@
 
 [[main]]
   name = "Home"
-  url = "#hero"
+  url = "#home"
   weight = 10
 
 [[main]]
-    name = "Publications"
-    url = "#publications"
+      name = "Posts"
+      url = "#posts"
+      weight = 15
+
+[[main]]
+    name = "Papers"
+    url = "#papers"
     weight = 30
 
 [[main]]

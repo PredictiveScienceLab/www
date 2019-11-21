@@ -6,6 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Predictive Science Lab"
+subtitle = "Creating artificial intelligence (AI) technologies that accelerate the pace of engineering innovation."
 
 [design.background]
   # Apply a background color, gradient, or image.
