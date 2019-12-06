@@ -15,7 +15,7 @@ tags:
 date: "2019-03-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.energyawarecommunities.org/"
 
 image:
   caption: Overview of the technology being created
