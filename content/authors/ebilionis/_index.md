@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Mechanical Engineering
+role: Associate Professor of Mechanical Engineering
 
 # Organizations/Affiliations
 organizations:
