@@ -46,7 +46,7 @@ email: "salar.safarkhani@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Salar received his Bachelors degree in Mechanical Engineering from Amirkabir University of Technology (Tehran's Polytechnic) in Iran. He received his Masters degree in Mechanical Engineering from Arizona State Univerity. He is currently a PhD candidate at the Predictive Science Lab at Purdue University.
