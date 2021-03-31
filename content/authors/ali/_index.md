@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ali Lenjani
+name: Dr. Ali Lenjani
 
 # Username (this should match the folder name)
 authors:
