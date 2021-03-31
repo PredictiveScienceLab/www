@@ -55,7 +55,7 @@ email: "caseya@purdue.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Alex received his Bachelors degree in Mechanical Engineering from Utah State University and is currently a PhD Candidate at the Predictive Science Lab. His research interest is machine learning of energetic materials.
