@@ -65,6 +65,6 @@ email: rohitkt10@gmail.com
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 Rohit received his Bachelors degree in Mechanical Engineering from VIT University in Vellore, India and is currently a Ph.D. candidate at the Predictive Science Lab. His research interests are in uncertainty quantification, physics-informed machine learning and probabilistic numerics. In his spare time, Rohit is an avid reader, runner, soccer fan and metalhead.
