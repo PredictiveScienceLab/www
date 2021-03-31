@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Salar Safarkhani
+name: Dr. Salar Safarkhani
 
 # Username (this should match the folder name)
 authors:
