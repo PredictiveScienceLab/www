@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Alex Casey  
+name: Dr. Alex Casey  
 
 # Username (this should match the folder name)
 authors:
