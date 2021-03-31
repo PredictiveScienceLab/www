@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rohit Tripathy
+name: Dr. Rohit Tripathy
 
 # Username (this should match the folder name)
 authors:
