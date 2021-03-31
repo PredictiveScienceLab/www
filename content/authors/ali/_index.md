@@ -49,7 +49,7 @@ email: "lenjani.a@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Grad Students
+- Alumni
 ---
 
 Ali received his Bachelor's and Master's degree from the Iran University of Science and Technology and the Northern Illinois Univerity in Mechanical Engineering. He is currently a Ph.D. candidate at the Predictive Science Lab at Purdue University.
